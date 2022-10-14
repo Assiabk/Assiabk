@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Assiabk Front-end Developer
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Artificial intillegence
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
